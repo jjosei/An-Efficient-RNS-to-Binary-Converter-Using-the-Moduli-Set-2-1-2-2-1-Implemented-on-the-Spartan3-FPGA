@@ -1,0 +1,2 @@
+# An-Efficient-RNS-to-Binary-Converter-Using-the-Moduli-Set-2-1-2-2-1-Implemented-on-the-Spartan3-FPGA
+This repository contains the VHDL implementation of an efficient Residue Number System (RNS) to Binary converter using the moduli set {2ⁿ−1,  2ⁿ,  2ⁿ+1}. The project includes detailed documentation, simulation files, and testbenches to facilitate understanding and verification of the converter's functionality.
